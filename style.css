@@ -47,6 +47,7 @@ p{
 
 .mission-content{
     display:flex;
+    
 }
 .explore-button{
     background-color: rgb(241, 95, 10);
@@ -54,4 +55,22 @@ p{
     width: 110px;
     padding: 10px;
     border-radius:10px;
+}
+.illustrator{
+    
+    margin:40px ;
+    padding: 30px;
+    border-radius:20px;
+    
+    height: 300px;
+    width: 400px;
+}
+.cardinal{
+    background-color: #CA2253;
+}
+.salmon{
+    background-color: #ff5456;
+}
+.sweet-pink{
+    background-color: #ED978D;
 }
