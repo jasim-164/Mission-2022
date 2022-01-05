@@ -1,0 +1,57 @@
+body{
+    font-family: 'Bellota', cursive;
+    font-family: 'Merriweather', serif;
+    margin: 0;  
+}
+.h2{
+    color:orange;
+}
+
+ .h1{
+    font-size:40px;
+    font-weight:bold;
+}
+.h2{
+    font-size:40px;
+    font-weight:bold;
+}
+p{
+    word-wrap: 20;
+}
+.header{
+    display:flex;
+}
+.person{
+    margin-right: 150px; 
+
+}
+.mission-border{
+    margin-top:70px;
+    box-sizing: content-box;
+    border-width: 5px;
+    padding-left:10px;
+    border-left-style: solid;
+    border-left-color: hsl(16, 78%, 39%);
+}
+.container{
+    
+    padding-left: 20px;
+    margin-left: 100px;
+    margin-top: 40px;
+    border-left-color: rgb(38, 0, 255);
+}
+.container{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mission-content{
+    display:flex;
+}
+.explore-button{
+    background-color: rgb(241, 95, 10);
+    color: white ;
+    width: 110px;
+    padding: 10px;
+    border-radius:10px;
+}
