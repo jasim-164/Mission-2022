@@ -56,21 +56,45 @@ p{
     padding: 10px;
     border-radius:10px;
 }
+.mission{
+    
+    text-align: center;
+    font-size: 40px;
+}
+.middle-section{
+    margin-top:80px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
 .illustrator{
     
-    margin:40px ;
+    margin:20px ;
     padding: 30px;
     border-radius:20px;
     
     height: 300px;
     width: 400px;
+    margin-top:50px;
 }
 .cardinal{
+    
     background-color: #CA2253;
 }
 .salmon{
+  
     background-color: #ff5456;
 }
 .sweet-pink{
     background-color: #ED978D;
+}
+.footer-part{
+    font-size:20px;
+    color:white;
+    text-align: center;
+    height:200px;
+    width:100%;
+    background-color: black;
+    margin:2px;
+    padding: 0px;
+
 }
