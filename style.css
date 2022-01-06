@@ -122,3 +122,88 @@ p{
 .coding{
     margin-left: 400px;
 }
+.parent-two{
+    position: relative;
+    margin-top: 200px;
+    margin-right: 120px;
+    padding:20px;
+}
+.over-img-two{
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+.project-section{
+    display:flex;
+}
+.community-section{
+    margin: 100px;
+    margin-top: 200px;
+    
+}
+.project{
+    margin-right: 350px;
+}
+
+.work-head{
+    text-align: center;
+}
+hr.new4 {
+    border: 1px solid red;
+  }
+  ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  li {
+    list-style: none;
+    display: inline-block;
+   
+    height: 120px;
+    text-align: center;
+  }
+  .work-list{
+      margin-top:50px;
+      margin-left:300px;
+  }
+li{
+ text-decoration: none;
+ margin-left: 100px;
+}
+.list-item-one{
+
+    background-color: orangered;
+    height: 30px;
+    width: 120px;
+    padding-top:10px;
+    border: 2px;
+    border-radius: 15px;
+
+}
+.list-item-two{
+    background-color: grey;
+    height: 30px;
+    width: 120px;
+    padding-top:10px;
+    border: 2px;
+    border-radius: 15px;
+
+}
+li a{
+text-decoration: none;
+}
+.grid{
+    display: flex;
+}
+
+
+
+
+
+
+
+  
