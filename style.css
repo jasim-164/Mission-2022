@@ -94,17 +94,7 @@ p{
 .sweet-pink{
     background-color: #ED978D;
 }
-.footer-part{
-    font-size:20px;
-    color:white;
-    text-align: center;
-    height:200px;
-    width:100%;
-    background-color: black;
-    margin:2px;
-    padding: 0px;
 
-}
 .coding-section{
     display:flex;
 }
@@ -199,7 +189,17 @@ text-decoration: none;
 .grid{
     display: flex;
 }
+.footer-part{
+    font-size:20px;
+    color:white;
+    text-align: center;
+    height:150px;
+    width:100%;
+    background-color: black;
+    margin-top:200px;
+    padding: 10px;
 
+}
 
 
 
